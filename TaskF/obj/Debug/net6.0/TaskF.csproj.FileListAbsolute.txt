@@ -1,0 +1,15 @@
+C:\Users\prdb\Grabis\TaskF\bin\Debug\net6.0\TaskF.exe
+C:\Users\prdb\Grabis\TaskF\bin\Debug\net6.0\TaskF.deps.json
+C:\Users\prdb\Grabis\TaskF\bin\Debug\net6.0\TaskF.runtimeconfig.json
+C:\Users\prdb\Grabis\TaskF\bin\Debug\net6.0\TaskF.dll
+C:\Users\prdb\Grabis\TaskF\bin\Debug\net6.0\TaskF.pdb
+C:\Users\prdb\Grabis\TaskF\obj\Debug\net6.0\TaskF.csproj.AssemblyReference.cache
+C:\Users\prdb\Grabis\TaskF\obj\Debug\net6.0\TaskF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Grabis\TaskF\obj\Debug\net6.0\TaskF.AssemblyInfoInputs.cache
+C:\Users\prdb\Grabis\TaskF\obj\Debug\net6.0\TaskF.AssemblyInfo.cs
+C:\Users\prdb\Grabis\TaskF\obj\Debug\net6.0\TaskF.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Grabis\TaskF\obj\Debug\net6.0\TaskF.dll
+C:\Users\prdb\Grabis\TaskF\obj\Debug\net6.0\refint\TaskF.dll
+C:\Users\prdb\Grabis\TaskF\obj\Debug\net6.0\TaskF.pdb
+C:\Users\prdb\Grabis\TaskF\obj\Debug\net6.0\TaskF.genruntimeconfig.cache
+C:\Users\prdb\Grabis\TaskF\obj\Debug\net6.0\ref\TaskF.dll
