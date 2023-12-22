@@ -1,5 +1,5 @@
 # Task_Math
 
 <p align="center">
-  <img width="400" height="350" src="https://github.com/IMalygosI/Task_Math/assets/67872855/4a040e48-42e0-41d9-a3a7-6a37ba997f82">
+  <img width="315" height="342" src="https://github.com/IMalygosI/Task_Math/assets/67872855/739644cb-42c5-4b34-af4b-018f0495fbda">
 </p>
